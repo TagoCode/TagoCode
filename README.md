@@ -21,8 +21,6 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/tashtego-dutton-59a9a584/"><img alt="LinkedIn" src="https://img.shields.io/badge/www.linkedin.com/in/tashtego-dutton-59a9a584?style=flat-square&logo=linkedin"></a>
 <a href="mailto:tashtegodutton@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-tashtegodutton@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-
-⭐️
