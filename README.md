@@ -18,9 +18,3 @@
 
 [![TagoCode's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TagoCode&show_icons=true)](https://github.com/TagoCode)
 
-<h3> 🤝🏻 Connect with Me </h3>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/tashtego-dutton-59a9a584/"><img alt="LinkedIn" src="style=flat-square&logo=linkedin"></a>
-<a href="mailto:tashtegodutton@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-tashtegodutton@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
